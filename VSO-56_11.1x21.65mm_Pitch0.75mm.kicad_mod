@@ -1,6 +1,6 @@
 (module VSO-56_11.1x21.65mm_Pitch0.75mm (layer F.Cu) (tedit 54130A77)
   (descr "VSO56: plastic very small outline package; 56 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot190-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.75")
   (attr smd)
   (fp_text reference VSO-56_11.1x21.65mm_Pitch0.75mm (at 0 -11.975) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
 (module SSOP-56_7.6x18.8mm_Pitch0.635mm (layer F.Cu) (tedit 54130A77)
   (descr "SSOP56: plastic shrink small outline package; 56 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot371-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.635")
   (attr smd)
   (fp_text reference SSOP-56_7.6x18.8mm_Pitch0.635mm (at 0 -10.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
 (module SSOP-24_4x9mm_Pitch0.635mm (layer F.Cu) (tedit 54130A77)
   (descr "SSOP24: plastic shrink small outline package; 24 leads; body width 3.9 mm; lead pitch 0.635; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot556-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.635")
   (attr smd)
   (fp_text reference SSOP-24_4x9mm_Pitch0.635mm (at 0 -5.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

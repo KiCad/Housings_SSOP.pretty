@@ -1,6 +1,6 @@
 (module TSSOP-38_4.5x9.95mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
   (descr "TSSOP38: plastic thin shrink small outline package; 38 leads; body width 4.4 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot510-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.5")
   (attr smd)
   (fp_text reference TSSOP-38_4.5x9.95mm_Pitch0.5mm (at 0 -5.975) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

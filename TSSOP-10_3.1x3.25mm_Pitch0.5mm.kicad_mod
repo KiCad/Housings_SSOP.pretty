@@ -1,6 +1,6 @@
 (module TSSOP-10_3.1x3.25mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
   (descr "TSSOP10: plastic thin shrink small outline package; 10 leads; body width 3 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot552-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.5")
   (attr smd)
   (fp_text reference TSSOP-10_3.1x3.25mm_Pitch0.5mm (at 0 -2.625) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
 (module TSSOP-32_6.2x11.25mm_Pitch0.65mm (layer F.Cu) (tedit 54130A77)
   (descr "TSSOP32: plastic thin shrink small outline package; 32 leads; body width 6.1 mm; lead pitch 0.65 mm (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot487-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.65")
   (attr smd)
   (fp_text reference TSSOP-32_6.2x11.25mm_Pitch0.65mm (at 0 -6.625) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

@@ -1,6 +1,6 @@
 (module VSO-40_7.6x16mm_Pitch0.762mm (layer F.Cu) (tedit 54130A77)
   (descr "VSO40: plastic very small outline package; 40 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot158-1_po.pdf)")
-  (tags "DFN SON USON WSON")
+  (tags "SSOP 0.762")
   (attr smd)
   (fp_text reference VSO-40_7.6x16mm_Pitch0.762mm (at 0 -9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

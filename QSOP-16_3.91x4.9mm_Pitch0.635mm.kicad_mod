@@ -1,6 +1,6 @@
 (module QSOP-16_3.91x4.9mm_Pitch0.635mm (layer F.Cu) (tedit 54130A77)
   (descr "16-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150\" Body [QSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
-  (tags "SOP SSOP MSOP SOIC TSOP TSSOP VSO")
+  (tags "SSOP 0.635")
   (attr smd)
   (fp_text reference QSOP-16_3.91x4.9mm_Pitch0.635mm (at 0 -3.4511) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))

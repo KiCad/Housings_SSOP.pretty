@@ -1,6 +1,6 @@
 (module MSOP-10_3x3mm_Pitch0.5mm (layer F.Cu) (tedit 54130A77)
   (descr "10-Lead Plastic Micro Small Outline Package (MS) [MSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
-  (tags "SOP SSOP MSOP SOIC TSOP TSSOP VSO")
+  (tags "SSOP 0.5")
   (attr smd)
   (fp_text reference MSOP-10_3x3mm_Pitch0.5mm (at 0 -2.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
