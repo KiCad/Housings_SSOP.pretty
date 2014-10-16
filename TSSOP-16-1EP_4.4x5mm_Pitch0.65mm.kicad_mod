@@ -1,8 +1,8 @@
-(module TSSOP-16-1EP_4.5x5.1mm_Pitch0.65mm (layer F.Cu) (tedit 54130A77)
+(module TSSOP-16-1EP_4.4x5mm_Pitch0.65mm (layer F.Cu) (tedit 54130A77)
   (descr "FE Package; 16-Lead Plastic TSSOP (4.4mm); Exposed Pad Variation BB; (see Linear Technology 1956f.pdf)")
   (tags "SSOP 0.65")
   (attr smd)
-  (fp_text reference TSSOP-16-1EP_4.5x5.1mm_Pitch0.65mm (at 0 -3.55) (layer F.SilkS)
+  (fp_text reference TSSOP-16-1EP_4.4x5mm_Pitch0.65mm (at 0 -3.55) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_text value VAL** (at 0 3.55) (layer F.SilkS)
@@ -46,7 +46,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 17 smd rect (at -0.735 -1.3425) (size 1.47 0.895) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_SSOP/TSSOP-16-1EP_4.5x5.1mm_Pitch0.65mm.wrl
+  (model Housings_SSOP/TSSOP-16-1EP_4.4x5mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
