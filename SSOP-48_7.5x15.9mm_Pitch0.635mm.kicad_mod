@@ -2,10 +2,10 @@
   (descr "SSOP48: plastic shrink small outline package; 48 leads; body width 7.5 mm; (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot370-1_po.pdf)")
   (tags "SSOP 0.635")
   (attr smd)
-  (fp_text reference SSOP-48_7.5x15.9mm_Pitch0.635mm (at 0 -9) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -9) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 9) (layer F.SilkS)
+  (fp_text value SSOP-48_7.5x15.9mm_Pitch0.635mm (at 0 9) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -5.55 -8.25) (end -5.55 8.25) (layer F.CrtYd) (width 0.05))
@@ -67,7 +67,7 @@
   (pad 46 smd rect (at 4.7 -6.0325) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at 4.7 -6.6675) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at 4.7 -7.3025) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SSOP/SSOP-48_7.5x15.9mm_Pitch0.635mm.wrl
+  (model Housings_SSOP.3dshapes/SSOP-48_7.5x15.9mm_Pitch0.635mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

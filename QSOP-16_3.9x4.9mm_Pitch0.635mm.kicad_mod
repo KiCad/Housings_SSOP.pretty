@@ -2,10 +2,10 @@
   (descr "16-Lead Plastic Shrink Small Outline Narrow Body (QR)-.150\" Body [QSOP] (see Microchip Packaging Specification 00000049BS.pdf)")
   (tags "SSOP 0.635")
   (attr smd)
-  (fp_text reference QSOP-16_3.9x4.9mm_Pitch0.635mm (at 0 -3.5) (layer F.SilkS)
+  (fp_text reference REF** (at 0 -3.5) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value VAL** (at 0 3.5) (layer F.SilkS)
+  (fp_text value QSOP-16_3.9x4.9mm_Pitch0.635mm (at 0 3.5) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -3.7 -2.75) (end -3.7 2.75) (layer F.CrtYd) (width 0.05))
@@ -30,7 +30,7 @@
   (pad 14 smd rect (at 2.6543 -0.9525) (size 1.6 0.41) (layers F.Cu F.Paste F.Mask))
   (pad 15 smd rect (at 2.6543 -1.5875) (size 1.6 0.41) (layers F.Cu F.Paste F.Mask))
   (pad 16 smd rect (at 2.6543 -2.2225) (size 1.6 0.41) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SSOP/QSOP-16_3.9x4.9mm_Pitch0.635mm.wrl
+  (model Housings_SSOP.3dshapes/QSOP-16_3.9x4.9mm_Pitch0.635mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
