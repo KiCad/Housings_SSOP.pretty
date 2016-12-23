@@ -2,7 +2,7 @@
   (fp_text reference REF** (at 0.4 -7.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
-  (fp_text value TSOP-48-12x20mm-Pitch0.5mm (at 0 7.4) (layer F.Fab)
+  (fp_text value TSOP-48-12x18.4mm-Pitch0.5mm (at 0 7.4) (layer F.Fab)
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start -8.6 -6.6) (end 11.2 -6.6) (layer F.SilkS) (width 0.15))
