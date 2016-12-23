@@ -1,4 +1,4 @@
-(module TSOP-I-48-12x20mm-Pitch0.5mm (layer F.Cu) (tedit 585994D6)
+(module TSOP-I-48-12x18.4mm-Pitch0.5mm (layer F.Cu) (tedit 585994D6)
   (fp_text reference REF** (at 0.4 -7.4) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
