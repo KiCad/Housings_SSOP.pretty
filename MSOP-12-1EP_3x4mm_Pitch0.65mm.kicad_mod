@@ -51,7 +51,7 @@
     (solder_paste_margin_ratio -0.2))
   (pad 13 smd rect (at -0.4125 -1.06875) (size 0.825 0.7125) (layers F.Cu F.Paste F.Mask)
     (solder_paste_margin_ratio -0.2))
-  (model Housings_SSOP.3dshapes/MSOP-12-1EP_3x4mm_Pitch0.65mm.wrl
+  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/MSOP-12-1EP_3x4mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

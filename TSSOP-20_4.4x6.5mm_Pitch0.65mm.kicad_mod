@@ -39,7 +39,7 @@
   (pad 18 smd rect (at 2.95 -1.625) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 19 smd rect (at 2.95 -2.275) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
   (pad 20 smd rect (at 2.95 -2.925) (size 1.45 0.45) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SSOP.3dshapes/TSSOP-20_4.4x6.5mm_Pitch0.65mm.wrl
+  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/TSSOP-20_4.4x6.5mm_Pitch0.65mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
