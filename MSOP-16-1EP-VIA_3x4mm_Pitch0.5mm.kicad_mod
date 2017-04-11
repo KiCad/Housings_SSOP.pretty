@@ -44,7 +44,7 @@
   (pad 17 thru_hole circle (at 0 0) (size 0.65 0.65) (drill 0.25) (layers *.Cu *.Paste *.Mask))
   (pad 17 thru_hole circle (at 0 1) (size 0.65 0.65) (drill 0.25) (layers *.Cu *.Paste *.Mask))
   (pad 17 thru_hole circle (at 0 -1) (size 0.65 0.65) (drill 0.25) (layers *.Cu *.Paste *.Mask))
-  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/MSOP-16_3x4mm_Pitch0.5mm.wrl
+  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/MSOP-16-1EP_3x4mm_Pitch0.5mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
