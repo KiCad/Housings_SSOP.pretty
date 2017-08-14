@@ -24,6 +24,9 @@
   (fp_line (start -3.875 -8.075) (end 3.875 -8.075) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.875 8.075) (end 3.875 8.075) (layer F.SilkS) (width 0.15))
   (fp_line (start -3.875 -7.825) (end -5.3 -7.825) (layer F.SilkS) (width 0.15))
+  (fp_text user %R (at 0 0) (layer F.Fab)
+    (effects (font (size 0.8 0.8) (thickness 0.15)))
+  )
   (pad 1 smd rect (at -4.7 -7.3025) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -4.7 -6.6675) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -4.7 -6.0325) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
@@ -72,7 +75,7 @@
   (pad 46 smd rect (at 4.7 -6.0325) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 47 smd rect (at 4.7 -6.6675) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
   (pad 48 smd rect (at 4.7 -7.3025) (size 1.2 0.4) (layers F.Cu F.Paste F.Mask))
-  (model Housings_SSOP.3dshapes/SSOP-48_7.5x15.9mm_Pitch0.635mm.wrl
+  (model ${KISYS3DMOD}/Housings_SSOP.3dshapes/SSOP-48_7.5x15.9mm_Pitch0.635mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
