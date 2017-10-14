@@ -1,4 +1,4 @@
-(module Housings_SSOP:TSSOP-14-1EP_4.4x5mm_Pitch0.65mm (layer F.Cu) (tedit 59E1E36E)
+(module TSSOP-14-1EP_4.4x5mm_Pitch0.65mm (layer F.Cu) (tedit 59E1E36E)
   (descr "14-Lead Plastic Thin Shrink Small Outline (ST)-4.4 mm Body [TSSOP] with exposed pad (http://cds.linear.com/docs/en/datasheet/34301fa.pdf)")
   (tags "SSOP 0.65 exposed pad")
   (attr smd)
